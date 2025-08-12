@@ -1,11 +1,11 @@
 body{
-    background-color: rgba(0, 4, 255, 0.533);
-    color:rgb(168, 214, 254);
+    background-color: rgba(247, 247, 250, 0.533);
+    color:rgb(0, 5, 8);
 font-family: Playwrite Hrvatska Lijeva;
 }
 
 .chamada{
-    background-color: rgb(22, 201, 85);
+    background-color: rgb(161, 11, 207);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
